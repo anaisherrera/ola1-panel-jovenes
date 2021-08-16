@@ -6,7 +6,7 @@ title: "Participación Ciudadana Juvenil"
 knitr::opts_chunk$set(out.width="80%", fig.pos = "!ht", out.extra = "")
 ```
 
-# Hipótesis de reproducción de estatus
+  
+# Hipótesis de estratificación de la socialización política
 
-## Reproducción de estatus y participación ciudadana
-## Efectos según tipo de participación
+## Recursos socioeconómicos y prácticas de socialización política
